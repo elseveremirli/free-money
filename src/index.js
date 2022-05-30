@@ -95,7 +95,6 @@ import icon from "./icons.png";
               </div>
             </div>
           </div>
-          <br/>
           <div className="card-group">
             <div className="card bg-danger mb-3">
               <img className="card-img-top sa  " src={sekil3} alt="Card image cap"/>
