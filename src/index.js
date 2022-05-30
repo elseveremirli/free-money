@@ -68,7 +68,7 @@ import icon from "./icons.png";
            <div id="2">
              <img src={icon} className="icon" />
           </div>
-      <div style={{marginTop:"500px"}} id="1">
+      <div style={{marginTop:"500px"}} id="1" className='arxa'>
         <div className="card-group">
             <div className="card bg-primary ">
               <img className="card-img-top sa"  style={{width:"70%"}}  src={sekil}  alt="Yuklenmedi"/>
