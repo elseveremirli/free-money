@@ -1,0 +1,28 @@
+.button {
+    margin-left: 30rem;
+    margin-top: 100px;
+}
+.sa{
+    width: 50%;
+    height: auto;
+    position: relative;
+    padding-left: 20% ;
+}
+.linkler{
+    text-decoration: none;
+
+}
+.about{
+    border: 3px solid rgb(0, 0, 0);
+    width: 40%;
+    margin-left: 30% ;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: rgb(0, 0, 0);
+}
+.icon{
+    width: 25%;
+    float: right;
+    margin-right: 7%;
+    margin-top: 5%;
+}
