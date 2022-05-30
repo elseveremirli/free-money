@@ -70,7 +70,7 @@ import icon from "./icons.png";
           </div>
       <div style={{marginTop:"500px"}} id="1">
         <div className="card-group">
-            <div className="card bg-primary mb-3">
+            <div className="card bg-primary ">
               <img className="card-img-top sa"  style={{width:"70%"}}  src={sekil}  alt="Yuklenmedi"/>
               <div className="card-body">
                 <h5 className="card-title">Clash OF Clans</h5> 
@@ -78,7 +78,7 @@ import icon from "./icons.png";
                 <p className="card-text"><a className='linkler ' href='https://acilebanon.com/NTMmYW1wO2k9NzM0MzgmS0pNd2Y='><button type="button" class="btn btn-success">Link</button></a></p>
               </div>
             </div>
-            <div className="card bg-secondary mb-3">
+            <div className="card bg-secondary ">
               <img className="card-img-top sa"  src={sekil1} alt="Card image cap"/>
               <div className="card-body">
                 <h5 className="card-title">Roblox Robux</h5>
@@ -86,7 +86,7 @@ import icon from "./icons.png";
                 <p className="card-text"><a className='linkler' href='https://acilebanon.com/cmImYW1wO2k9NzM0MzgmS0pNd2Y='><button type="button" class="btn btn-success">Link</button></a></p>
               </div>
             </div>
-            <div className="card  bg-light  mb-3">
+            <div className="card  bg-light  ">
               <img className="card-img-top sa " style={{width:"60%"}} src={sekil2}  alt="Card image cap"/>
               <div className="card-body">
                 <h5 className="card-title">FREE FIRE</h5>
@@ -96,7 +96,7 @@ import icon from "./icons.png";
             </div>
           </div>
           <div className="card-group">
-            <div className="card bg-danger mb-3">
+            <div className="card bg-danger ">
               <img className="card-img-top sa  " src={sekil3} alt="Card image cap"/>
               <div className="card-body">
                 <h5 className="card-title">PUBG MOBILE</h5>
@@ -104,7 +104,7 @@ import icon from "./icons.png";
                 <p className="card-text"><a className='linkler' href='https://acilebanon.com/cGImYW1wO2k9NzM0MzgmS0pNd2Y='><button type="button" class="btn btn-success">Link</button></a></p>
               </div>
             </div>
-            <div className="card bg-warning mb-3">
+            <div className="card bg-warning ">
               <img className="card-img-top sa" src={sekil4} alt="Card image cap"/>
               <div className="card-body">
                 <h5 className="card-title">Steam Login</h5>
@@ -112,7 +112,7 @@ import icon from "./icons.png";
                 <p className="card-text"><a className='linkler' href='https://acilebanon.com/MTMmYW1wO2k9NzM0MzgmS0pNd2Y='><button type="button" class="btn btn-success">Link</button></a></p>
               </div>
             </div>
-            <div className="card bg-info mb-3">
+            <div className="card bg-info ">
               <img className="card-img-top sa" style={{width:"70%"}} src={sekil5} alt="Card image cap"/>
               <div className="card-body">
                 <h5 className="card-title">War OF Mercenaries</h5>
